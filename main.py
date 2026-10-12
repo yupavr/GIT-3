@@ -27,7 +27,10 @@ def subtract(a, b):
     if a < b:
         return "Loi: a phai lon hon hoac bang b"
     return a + b
-
+def cong(a, b):
+    if a < b:
+        return "Loi: a phai lon hon hoac bang b"
+    return a + b
 
 def multiply(a, b):
     a = 100
