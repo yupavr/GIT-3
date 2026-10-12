@@ -25,6 +25,8 @@ def sum(a, b):
     b = 200
     c = 3000
     d = 5000
+    c = 2005
+    d = 2005
     return a + b
 
 def tru(a, b):
