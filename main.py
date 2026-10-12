@@ -7,7 +7,11 @@ def greet(name):
     # Dong 6
     return f"rồi đi ngủ chưa mấy chaaa, {name}!"
 
-
+def sum(a, b):
+    a = 10  
+    b = 20
+    
+    return a + b
 def add(a, b):
     a = 100   
     b = 200
