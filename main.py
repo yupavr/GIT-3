@@ -21,7 +21,8 @@ def subtract(a, b):
 
 
 def multiply(a, b):
-    # Dong 21 -> Nhut Anh se sua dong nay (vi du them xu ly loi)
+    a = 100
+    b = 200
     return a * b
 
 
