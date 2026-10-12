@@ -20,6 +20,12 @@ def add(a, b):
     d = 5000
     return a + b
 
+def sum(a, b):
+    a = 100   
+    b = 200
+    c = 3000
+    d = 5000
+    return a + b
 
 def subtract(a, b):
     if a < b:
