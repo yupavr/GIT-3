@@ -8,7 +8,11 @@ def greet(name):
     return f"rồi đi ngủ chưa mấy chaaa, {name}!"
     return f"Mỗi lần nhớ em là một ngày mưa, {name}!"
 
-
+def sum(a, b):
+    a = 10  
+    b = 20
+    
+    return a + b
 def add(a, b):
     a = 100   
     b = 200
