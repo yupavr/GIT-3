@@ -11,6 +11,8 @@ def greet(name):
 def add(a, b):
     a = 100   
     b = 200
+    c = 3000
+    d = 5000
     return a + b
 
 
