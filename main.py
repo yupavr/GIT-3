@@ -6,6 +6,7 @@ Leader: Hiep | Developer: Tinh | Developer: Nhut Anh
 def greet(name):
     # Dong 6
     return f"rồi đi ngủ chưa mấy chaaa, {name}!"
+    return f"Mỗi lần nhớ em là một ngày mưa, {name}!"
 
 def sum(a, b):
     a = 10  
