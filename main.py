@@ -27,6 +27,9 @@ def sum(a, b):
     d = 5000
     return a + b
 
+def tru(a, b):
+    return a - b
+
 def subtract(a, b):
     if a < b:
         return "Loi: a phai lon hon hoac bang b"
